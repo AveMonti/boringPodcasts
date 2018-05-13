@@ -1,12 +1,22 @@
-### Boring Podcasts
-
+### BoringCasts
+rename from Boring Podcast xDD
 <img src="/img/icon.png" height="700" width="605" />
 
 ## Language?
-* I think i wanna use python and node od back
-* in front angular + swift lang + maybe android version
-## ToDo:
-* the first think do request to apple podcasts liblary
-* try to get value from liblary
-* do account and subscribe model
-* push notyfication?
+* backand in NodeJS
+* front in swift alamofire framework
+
+
+
+
+### ToDo:
+## iOS version:
+* interfaces
+* idk what more?
+## macOS verision:
+* interfaces
+* idk what more?
+## for both:
+* backend node user accound follo satus push notytication
+* Request class
+* parse response class
